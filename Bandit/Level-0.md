@@ -70,3 +70,5 @@ ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 ---
 
 **Next Step:** Proceed to [Level 1](https://overthewire.org/wargames/bandit/bandit1.html) to continue the challenge.  
+
+---
