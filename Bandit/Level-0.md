@@ -47,7 +47,8 @@ cat readme
 
 ## 📸 **Screenshot**  
 *Add screenshot here:*  
-![Pasword Image Level-0](level0.png)
+![Password for Level-0](https://github.com/user-attachments/assets/3c5127aa-eff1-4449-9a12-10f9eee33e47)
+
 
 ---
 
