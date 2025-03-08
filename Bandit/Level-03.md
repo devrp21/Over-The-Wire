@@ -78,9 +78,9 @@ Output:
 
 ---
 
-## 📸 **Screenshot**  
-*Add screenshot here:*  
-![Screenshot](path/to/screenshot.png)
+## 📸 **Screenshot**   
+![Level-3](https://github.com/user-attachments/assets/710eeeb6-6a8a-456e-8c28-32415c988003)
+
 
 ---
 
