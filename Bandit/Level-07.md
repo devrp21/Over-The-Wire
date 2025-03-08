@@ -69,8 +69,8 @@ dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 ---
 
 ## 📸 **Screenshot**  
-*Add screenshot here:*  
-![Screenshot](path/to/screenshot.png)
+![Level-7](https://github.com/user-attachments/assets/4ff0c719-7ee2-4824-8901-3e60a093f433)
+
 
 ---
 
