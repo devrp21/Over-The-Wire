@@ -70,8 +70,8 @@ morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 ---
 
 ## 📸 **Screenshot**  
-*Add screenshot here:*  
-![Screenshot](path/to/screenshot.png)
+![Level-6](https://github.com/user-attachments/assets/8de8c708-1b74-4c32-95d1-b37d2659530a)
+
 
 ---
 
