@@ -47,7 +47,8 @@ cat readme
 
 ## 📸 **Screenshot**  
 *Add screenshot here:*  
-![Pasword Image Level-0](level0.png)
+![Password for Level-0](https://github.com/user-attachments/assets/3c5127aa-eff1-4449-9a12-10f9eee33e47)
+
 
 ---
 
@@ -69,7 +70,3 @@ ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 ---
 
 **Next Step:** Proceed to [Level 1](https://overthewire.org/wargames/bandit/bandit1.html) to continue the challenge.  
-
----
-
-Just replace `"path/to/screenshot.png"` with the actual path to your image. Let me know if you need to tweak anything! 😎
