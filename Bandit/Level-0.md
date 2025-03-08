@@ -70,7 +70,3 @@ ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 ---
 
 **Next Step:** Proceed to [Level 1](https://overthewire.org/wargames/bandit/bandit1.html) to continue the challenge.  
-
----
-
-Just replace `"path/to/screenshot.png"` with the actual path to your image. Let me know if you need to tweak anything! 😎
