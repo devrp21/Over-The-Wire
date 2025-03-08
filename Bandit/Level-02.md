@@ -64,8 +64,7 @@ MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 ---
 
-## 📸 **Screenshot**  
-*Add screenshot here:*  
+## 📸 **Screenshot**    
 ![Level-2](https://github.com/user-attachments/assets/7058c086-4430-4b2f-a8da-eae3ebe48819)
 
 ---
