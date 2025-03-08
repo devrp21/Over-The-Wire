@@ -92,7 +92,7 @@ The decoded output is the password:
 
 ## 📸 **Screenshot**  
 *Add screenshot here:*  
-![Screenshot](path/to/screenshot.png)
+![Level-11](https://github.com/user-attachments/assets/16c252c4-4cfd-4266-8497-4e43bf40b2b6)
 
 ---
 
