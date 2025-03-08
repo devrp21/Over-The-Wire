@@ -72,8 +72,8 @@ The password is the unique line:
 ---
 
 ## 📸 **Screenshot**  
-*Add screenshot here:*  
-![Screenshot](path/to/screenshot.png)
+![Level-8](https://github.com/user-attachments/assets/8360a91c-2c5e-450b-a408-3ee5dac8f1c6)
+
 
 ---
 
