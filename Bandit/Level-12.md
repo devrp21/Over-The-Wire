@@ -1,5 +1,3 @@
-Here's a combined and streamlined version of your solution and the provided one. I've organized it clearly into logical steps and cleaned it up for better readability.
-
 ---
 
 ## **Task**  
@@ -188,8 +186,8 @@ cat final_file
 ---
 
 ## 📸 **Screenshot**  
-*Add screenshot here:*  
-![Screenshot](path/to/screenshot.png)
+![Level-12](https://github.com/user-attachments/assets/4c3fe9f8-4fc9-4557-ac34-77d7362cd901)
+
 
 ---
 
