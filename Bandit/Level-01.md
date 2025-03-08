@@ -61,7 +61,8 @@ Output:
 
 ## 📸 **Screenshot**  
 *Add screenshot here:*  
-![Screenshot](path/to/screenshot.png)
+![Level-1](https://github.com/user-attachments/assets/5ec0c441-2280-4a3d-8d11-fbfeba2613f5)
+
 
 ---
 
