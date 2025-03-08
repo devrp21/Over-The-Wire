@@ -60,8 +60,8 @@ Press **CTRL + D** or **CTRL + C** to close the connection.
 ---
 
 ## 📸 **Screenshot**  
-*Add screenshot here:*  
-![Screenshot](path/to/screenshot.png)
+![Level-14](https://github.com/user-attachments/assets/e79317e4-6d9a-40be-9c01-5c13f4410e46)
+
 
 ---
 
