@@ -1,5 +1,3 @@
-Here's the updated README for **Level 5**:
-
 ---
 
 # OverTheWire Bandit CTF – Level 5
