@@ -1,5 +1,3 @@
-Here's the updated README for **Level 6**:
-
 ---
 
 # OverTheWire Bandit CTF – Level 6
