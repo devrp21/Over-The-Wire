@@ -1,5 +1,3 @@
-Here's the updated README for **Level 1**:
-
 ---
 
 # OverTheWire Bandit CTF – Level 1
