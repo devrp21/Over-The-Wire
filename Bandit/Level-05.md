@@ -1,4 +1,3 @@
----
 
 # OverTheWire Bandit CTF – Level 5
 
