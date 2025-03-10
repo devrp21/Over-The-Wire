@@ -1,6 +1,4 @@
-Here's the solution for **Bandit Level 13 → Level 14** following the updated format:
 
----
 
 # OverTheWire Bandit CTF – Level 13
 
