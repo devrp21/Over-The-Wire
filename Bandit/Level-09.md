@@ -1,6 +1,3 @@
-Here's the updated README for **Level 9**:
-
----
 
 # OverTheWire Bandit CTF – Level 9
 
