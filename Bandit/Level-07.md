@@ -1,6 +1,3 @@
-Here's the updated README for **Level 7**:
-
----
 
 # OverTheWire Bandit CTF – Level 7
 
