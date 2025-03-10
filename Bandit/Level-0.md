@@ -1,5 +1,3 @@
-Here's an updated template with a placeholder for the image:
-
 ---
 
 # OverTheWire Bandit CTF – Level 0
