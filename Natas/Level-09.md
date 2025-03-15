@@ -28,7 +28,7 @@ http://natas9.natas.labs.overthewire.org
 - **Username:** `natas9`  
 - **Password:** Use the password from Natas Level 8:  
 ```
-xcoXLmzMkoIP9D7hlgPlh9XD7OgLAe5Q
+ZE1ck82lmdGIoErlhQgWND6j2Wzz6b6t
 ```  
 ![Home_Page](https://github.com/user-attachments/assets/ea647b62-59f2-426c-b5d8-d9508b0cea42)
 
