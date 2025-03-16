@@ -27,7 +27,7 @@ http://natas30.natas.labs.overthewire.org
 - **Username:** `natas30`  
 - **Password:** Use the password from Natas Level 29:  
 ```
-31F4j3Qi2PnuhIZQokxXk1L3QT9Cppns
+WQhx1BvcmP9irs2MP9tRnLsNaDI76YrH
 ```  
 
 ![Home_Page](https://github.com/user-attachments/assets/ec4438a1-c334-423f-bc01-d779ec24d431)
